@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.boton_Compra {
+  margin: 0px 0.2rem 0px 0.2rem;
+}

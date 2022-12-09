@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Perrarina",
+        "marca": "Dog Show",
+        "modelo": "S",
+        "precio": 150,
+        "stock": 30,
+        "img": "perrarina_dog_show.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Gatarina",
+        "marca": "Cat Show",
+        "modelo": "S",
+        "precio": 220,
+        "stock": 20,
+        "img": "gatarina_cat_show.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "Collar",
+        "marca": "Indi",
+        "modelo": "108",
+        "precio": 70,
+        "stock": 15,
+        "img": "collar.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Bravecto",
+        "marca": "Bravecto",
+        "modelo": "P",
+        "precio": 350,
+        "stock": 30,
+        "img": "bravecto.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 4,
+        "nombre": "Shampoo Cat",
+        "marca": "Cat Show",
+        "modelo": "M150",
+        "precio": 200,
+        "stock": 7,
+        "img": "shampoo_cat.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 4,
+        "nombre": "Jabon Dog",
+        "marca": "Dog Show",
+        "modelo": "M10",
+        "precio": 150,
+        "stock": 20,
+        "img": "jabon_dog.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Gatarina",
+        "marca": "Cat Show",
+        "modelo": "M",
+        "precio": 350,
+        "stock": 10,
+        "img": "gatarina_cat_show.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Plato",
+        "marca": "Generica",
+        "modelo": "M",
+        "precio": 15,
+        "stock": 30,
+        "img": "plato.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Pelota",
+        "marca": "Generica",
+        "modelo": "Sp100",
+        "precio": 20,
+        "stock": 21,
+        "img": "pelota.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 1,
+        "nombre": "Perrarina",
+        "marca": "Dog Show",
+        "modelo": "M",
+        "precio": 250,
+        "stock": 25,
+        "img": "perrarina_dog_show.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 2,
+        "nombre": "Gatarina",
+        "marca": "Cat Show",
+        "modelo": "G",
+        "precio": 400,
+        "stock": 30,
+        "img": "gatarina_cat_show.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 1,
+        "nombre": "Perrarina",
+        "marca": "Dog Show",
+        "modelo": "G",
+        "precio": 350,
+        "stock": 20,
+        "img": "perrarina_dog_show.jpg"
+    }
+
+]
